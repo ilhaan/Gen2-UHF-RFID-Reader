@@ -1,1 +1,6 @@
 gr-rfid/build/
+gr-rfid/misc/data/decoder
+gr-rfid/misc/data/gate
+gr-rfid/misc/data/matched_filter
+gr-rfid/misc/data/reader
+gr-rfid/misc/data/source
